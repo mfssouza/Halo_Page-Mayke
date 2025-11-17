@@ -1,0 +1,12 @@
+h1
+{
+    color:aqua
+}
+p
+{
+    border-style: solid;
+    padding: 15px;
+    color:aqua;
+    display:flex;
+    flex-direction: column;
+}
